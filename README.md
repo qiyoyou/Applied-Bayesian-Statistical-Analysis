@@ -4,7 +4,7 @@ The public space issue arose due to the low-usage rate of two study rooms. The a
 1. number of students using each of study room
 2. mean difference number between two study rooms
 
-Data were collected from the card beepers of study rooms, recording time points and student IDs from Sep 9 to Dec 15 in 2018. We focused only on the usage during the semester and excluded the major festivals which showed extreme low numbers of students.
+Data were collected from the card beepers of study rooms, recording time points and student IDs from Sep 9 to Dec 15 in 2018. We focus only on the usage during the semester and exclud the major festivals with extreme low numbers of students.
 
 
 ## Analysis of study room usage data with Bayesian model
