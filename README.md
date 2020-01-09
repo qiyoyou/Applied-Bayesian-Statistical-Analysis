@@ -5,5 +5,5 @@ Applied Bayesian Statistical Analysis
 
 ### Materials
 
-**PDF file** [[link to the slide]]()
+**PDF file** [[link to the slide]](https://github.com/qiyoyou/Applied-Bayesian-Statistical-Analysis/blob/master/PPT_final_version.pdf)
 
